@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+
+}
+
+.word{
+   color: white;
+   font-size: 75px;
+   position: center;
+   margin-left: 150px;
+   margin-top: 150px;
+
+}
